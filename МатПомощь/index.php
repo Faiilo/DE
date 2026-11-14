@@ -29,7 +29,7 @@
 
         <div class="slider-container">
             <div class="slider">
-                <img src="media/1.jpg" alt="Слайд" id="slideImg">
+                <img src="media/image06.jpg" alt="Слайд" id="slideImg">
             </div>
             <button class="slider-arrow" onclick="prevSlide()">&#10094;</button>
             <button class="slider-arrow" onclick="nextSlide()">&#10095;</button>

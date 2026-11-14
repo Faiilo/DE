@@ -2,10 +2,10 @@
 document.addEventListener("DOMContentLoaded", function() {
     // --- Логика для слайдера ---
     const images = [
-        "media/1.jpg",
-        "media/2.jpg",
-        "media/3.jpg",
-        "media/4.jpg"
+        "media/image06.jpg",
+        "media/image07.jpg",
+        "media/image08.webp",
+        "media/image09.webp"
     ];
     
     let currentIndex = 0;
